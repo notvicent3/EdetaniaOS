@@ -11,7 +11,7 @@
 
 Welcome to EdetaniaOS, your web browser-based cloud operating system inspired by eyeOS! 
 
-## I want to create the first Perpetual Autonomous Learning Operating System Web-browser based with the power of Quantum Computing focused being free, open and accesible for everyone in this planet <3
+*I want to create the first Perpetual Autonomous Learning Operating System Web-browser based with the power of Quantum Computing focused being free, open and accesible for everyone in this planet <3*
 
 EdetaniaOS is designed to be the pinnacle of innovation in Valencia, providing an open-source cloud-based operating system with cutting-edge features such as Artificial Intelligence and Machine Learning capabilities. Developed after researching and learning over 20 years by a guy who dedicated his entire life to his passion, EdetaniaOS is here to honor his years of expertise and bring you the best experience where the technology, learning and game are the way for keep growing and reaching all your dreams throught the Open Source and solo-dev technologies. 🚀
 
